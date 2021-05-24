@@ -7,4 +7,9 @@
 
 ##
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=temple111)](https://github.com/anuraghazra/github-readme-stats)
+
+
+##
+
 > PHP cannot be dying if the 80% of the web uses it
