@@ -3,7 +3,7 @@
 
 - 👌 Favourite Lenguage: PHP 
 - 🍕 I also like: Node.js, HTML, CSS, JS, Vue
-- 🔍 Currently Project: Easy-DJS - DiscordJS Library (Project Builder & Easier Functions)
+- 🔍 Currently Project: Revelation Roleplay - Front-end and Forum
 
 ## My GitHub Profile (really new)
 
